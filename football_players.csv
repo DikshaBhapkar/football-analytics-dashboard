@@ -1,0 +1,241 @@
+player_id,player_name,team,position,season,age,nationality,matches_played,minutes_played,goals,assists,shots,shots_on_target,passes,pass_accuracy,tackles,interceptions,yellow_cards,red_cards,clean_sheets,rating
+1,Yuri Costa,West Ham,MID,2022-23,20,Italian,21,1842,6,14,63,23,2065,77.1,65,39,6,0,1,7.29
+2,Yuri Silva,Chelsea,DEF,2022-23,31,Belgian,29,2483,5,2,12,3,2308,83.8,60,36,10,1,6,8.12
+3,Finn Becker,Aston Villa,MID,2022-23,31,English,11,511,11,17,51,21,1600,78.6,24,25,4,2,2,7.92
+4,Arjen Alves,Chelsea,MID,2022-23,28,Belgian,22,1507,9,4,78,43,2446,92.2,37,38,6,0,1,8.61
+5,Kai Dupont,Man City,MID,2022-23,33,Dutch,27,1294,9,5,63,32,2004,85.6,59,43,7,0,2,7.6
+6,Finn Neves,Arsenal,MID,2022-23,21,Argentine,38,1746,7,11,32,16,1692,87.3,32,42,6,0,3,7.08
+7,Diego Gomez,Man United,MID,2022-23,22,French,20,1686,4,13,58,19,1676,75.8,60,38,8,1,1,7.7
+8,Max Santos,Brighton,DEF,2022-23,31,Italian,22,1221,3,4,5,3,1965,75.9,88,22,8,0,12,8.13
+9,Yuri Rossi,Arsenal,MID,2022-23,33,Dutch,10,892,10,17,68,44,1386,94.0,38,13,7,2,3,8.47
+10,Finn Weber,Brighton,MID,2022-23,35,Argentine,14,659,3,11,26,8,2798,79.6,66,13,8,1,2,8.58
+11,Toni Torres,Aston Villa,FWD,2022-23,24,Portuguese,24,2154,30,3,45,22,346,64.8,9,6,10,1,1,8.05
+12,Leo Mane,Tottenham,MID,2022-23,27,English,13,1108,3,16,36,17,1980,79.5,38,12,4,1,3,7.84
+13,Leo Fernandez,Newcastle,FWD,2022-23,24,Brazilian,29,2023,28,3,68,31,1037,79.0,13,4,10,1,0,8.93
+14,Finn Perez,Liverpool,MID,2022-23,18,Brazilian,32,1549,7,10,78,38,1653,94.2,19,35,0,1,1,6.77
+15,Felix Martins,Arsenal,DEF,2022-23,36,Belgian,37,3127,5,4,23,8,1863,83.6,97,22,2,0,7,7.41
+16,Mateo Lopez,Man United,FWD,2022-23,33,German,11,931,20,9,52,16,992,75.0,15,14,9,0,0,8.36
+17,Nico Klein,Chelsea,DEF,2022-23,36,Argentine,17,1153,1,1,15,6,2750,70.0,92,49,6,1,6,7.39
+18,Harry Fernandez,Man United,DEF,2022-23,21,Portuguese,10,577,5,2,21,9,1499,70.2,56,59,6,1,1,8.05
+19,Toni Dias,Aston Villa,GK,2022-23,35,Dutch,8,468,1,2,3,1,1488,76.8,24,34,0,1,9,6.43
+20,Noah Kroos,Brighton,MID,2022-23,19,English,16,737,7,3,41,17,2493,94.5,40,27,10,0,1,8.92
+21,Harry Costa,Chelsea,MID,2022-23,18,Argentine,17,1418,4,13,77,44,2653,84.4,37,35,6,0,1,8.86
+22,Nico Moura,Liverpool,DEF,2022-23,32,Portuguese,32,2493,3,1,19,13,2282,75.5,117,39,4,2,5,8.38
+23,Harry Perez,Liverpool,FWD,2022-23,22,French,29,2237,23,9,108,52,1191,75.9,7,2,1,2,1,8.74
+24,Eden Kroos,Arsenal,DEF,2022-23,28,Italian,11,804,2,3,18,9,1319,85.4,56,48,4,1,4,8.11
+25,James Ramos,Aston Villa,DEF,2022-23,27,Brazilian,26,1850,5,6,29,17,2717,83.7,117,26,4,1,0,7.08
+26,Finn Lopez,Tottenham,DEF,2022-23,19,Dutch,36,2684,2,4,21,14,2143,77.9,111,40,8,0,1,8.44
+27,Dani Dupont,Aston Villa,GK,2022-23,20,Brazilian,19,1281,0,2,5,2,900,66.5,60,28,5,0,13,7.43
+28,Diego Kroos,Brighton,MID,2022-23,29,Dutch,6,533,3,14,52,30,1788,76.6,16,42,9,1,0,7.49
+29,Bruno Smith,Man United,MID,2022-23,22,Belgian,10,727,3,12,74,49,1516,89.1,58,49,8,1,2,6.58
+30,Oliver Fernandez,Liverpool,MID,2022-23,22,German,26,1699,9,4,47,23,2307,86.1,34,16,2,2,2,7.99
+31,Sven Diaz,Man United,DEF,2022-23,23,Dutch,23,2045,1,5,15,5,1708,79.6,51,42,3,0,11,7.54
+32,Noah Silva,Man United,DEF,2022-23,26,Brazilian,7,340,4,6,23,8,1713,83.1,83,37,2,2,5,6.83
+33,Luca Kroos,Man United,GK,2022-23,19,Belgian,28,1796,1,2,0,0,1361,79.4,16,16,3,1,5,7.04
+34,Bruno Gomez,Liverpool,FWD,2022-23,29,Dutch,6,431,28,2,88,49,549,76.0,23,10,3,1,1,7.96
+35,Bruno Klein,West Ham,GK,2022-23,20,French,30,2316,0,2,1,0,1029,74.5,21,7,6,1,17,7.83
+36,Diego Perez,Man City,MID,2022-23,29,German,18,1227,15,4,74,25,2204,83.7,51,14,8,1,1,6.74
+37,Nico Alves,Brighton,FWD,2022-23,34,Dutch,27,1766,21,11,67,22,560,67.2,6,4,10,1,0,8.82
+38,Nico Fernandez,West Ham,MID,2022-23,27,Belgian,12,873,15,18,29,10,2061,77.9,43,19,0,0,3,7.62
+39,Sven Haaland,Brighton,FWD,2022-23,31,Argentine,32,2684,24,12,76,26,464,77.2,19,6,5,2,1,8.62
+40,Arjen Martins,Chelsea,DEF,2022-23,34,Spanish,10,531,1,5,6,2,1081,70.8,112,56,10,0,3,6.31
+41,Luis Dupont,Aston Villa,FWD,2022-23,35,Portuguese,33,2773,23,12,59,30,550,60.1,25,19,7,2,1,9.36
+42,Felix Diaz,Aston Villa,MID,2022-23,36,Spanish,12,1063,8,14,57,32,1507,89.1,34,32,0,2,3,7.0
+43,Luca Dupont,Newcastle,MID,2022-23,34,Spanish,34,2290,7,7,66,42,1510,94.6,36,43,0,1,0,7.44
+44,Bruno Weber,Aston Villa,GK,2022-23,31,English,35,2612,1,0,3,1,1313,78.8,36,12,4,0,13,7.5
+45,Max Weber,Liverpool,DEF,2022-23,26,French,13,637,5,3,6,3,1984,78.1,103,25,8,2,8,8.18
+46,Felix Ramos,Tottenham,DEF,2022-23,25,Argentine,27,1744,4,5,18,6,2277,88.0,43,57,10,0,2,8.19
+47,Luis Torres,Arsenal,MID,2022-23,19,Italian,23,1437,7,9,44,17,2299,87.2,35,24,8,0,0,7.91
+48,Diego Klein,Newcastle,FWD,2022-23,30,Dutch,13,807,21,3,83,40,921,74.1,10,12,9,1,0,8.78
+49,Harry Alves,Arsenal,MID,2022-23,24,Portuguese,19,1192,6,15,45,26,1503,86.6,39,21,6,1,0,7.83
+50,Cesar Dias,Brighton,GK,2022-23,26,German,19,1063,1,2,2,0,1118,65.1,54,25,10,2,11,7.62
+51,Ivan Santos,Arsenal,FWD,2022-23,28,Argentine,32,2216,25,6,58,34,672,66.3,6,15,9,1,0,7.42
+52,Cesar Costa,Arsenal,DEF,2022-23,31,Brazilian,24,1602,0,4,8,4,2409,86.0,114,26,6,1,11,6.46
+53,Oliver Alves,Newcastle,DEF,2022-23,21,Italian,30,1636,4,1,19,8,1941,80.3,52,74,9,1,5,7.48
+54,Nico Martins,Chelsea,DEF,2022-23,30,English,14,1140,1,0,30,14,1463,86.5,76,23,2,1,1,7.06
+55,Kai Smith,Man United,MID,2022-23,19,English,26,1197,3,7,66,34,2449,84.5,63,44,2,2,3,7.84
+56,Sven Moura,Aston Villa,DEF,2022-23,22,Argentine,11,839,1,0,18,8,2077,72.8,116,80,2,1,8,6.69
+57,Andre Becker,Aston Villa,MID,2022-23,28,Belgian,36,2064,8,11,68,44,1899,91.4,25,48,3,0,3,8.01
+58,Andre Fernandez,Liverpool,FWD,2022-23,23,Spanish,9,433,7,9,47,25,1007,69.7,5,7,4,1,0,9.0
+59,Toni Weber,Newcastle,GK,2022-23,35,Brazilian,21,1885,0,1,3,1,629,79.9,12,26,6,1,10,7.65
+60,Sven Jones,Liverpool,MID,2022-23,27,English,20,1268,7,14,77,46,2700,88.8,50,14,8,2,0,7.0
+61,Arjen Becker,Tottenham,DEF,2022-23,21,Portuguese,9,703,0,3,12,7,2102,78.0,42,35,7,0,12,6.38
+62,Oliver Silva,Tottenham,DEF,2022-23,26,English,16,1283,4,3,10,3,2566,87.3,61,37,1,0,7,7.52
+63,Luis Kroos,Liverpool,MID,2022-23,23,German,5,293,2,9,69,33,1540,81.9,59,11,3,1,0,7.1
+64,Oliver Rossi,Newcastle,DEF,2022-23,19,Dutch,16,1390,3,1,27,16,2762,81.5,45,54,9,1,5,7.42
+65,Oliver Muller,Liverpool,MID,2022-23,34,English,18,875,4,16,43,15,1333,77.8,56,39,4,2,1,7.03
+66,Arjen Fernandez,Aston Villa,MID,2022-23,22,German,37,3201,3,5,37,24,1465,91.4,28,29,0,1,1,6.83
+67,Remi Haaland,West Ham,MID,2022-23,23,Argentine,12,798,15,15,71,27,2101,77.9,17,44,3,0,0,7.42
+68,Marc Becker,Man City,MID,2022-23,29,Argentine,10,450,14,14,31,16,1742,85.1,46,41,10,1,3,7.6
+69,Max Silva,Arsenal,MID,2022-23,27,Italian,35,2669,8,5,50,19,1977,79.2,65,14,8,2,2,7.71
+70,Marc Mane,Man City,MID,2022-23,23,English,21,1164,4,7,28,15,1599,76.2,42,16,3,0,3,7.77
+71,Emre Fernandez,Newcastle,MID,2022-23,25,Portuguese,31,1972,13,8,58,26,2797,88.1,64,46,6,0,3,7.39
+72,Ivan Costa,Man City,DEF,2022-23,19,English,27,1381,4,5,27,10,1045,85.8,41,46,6,0,4,7.46
+73,Max Martins,Tottenham,DEF,2022-23,29,Portuguese,15,981,4,1,22,7,972,70.9,92,37,3,2,4,6.93
+74,Sven Ramos,Brighton,FWD,2022-23,30,French,25,2200,8,2,91,31,526,68.3,20,19,0,0,1,7.68
+75,Diego Silva,Arsenal,MID,2022-23,24,Italian,25,2053,9,11,60,27,2783,80.1,15,11,6,1,3,8.6
+76,Leo Santos,Man United,DEF,2022-23,27,French,5,324,5,0,19,5,1655,87.6,56,79,7,0,6,6.26
+77,Sven Kroos,Newcastle,MID,2022-23,30,English,35,2042,8,13,20,13,1863,75.7,59,33,10,2,2,7.77
+78,Luis Alves,Arsenal,DEF,2022-23,34,Italian,14,643,2,3,23,14,1149,86.6,97,24,0,2,4,6.17
+79,Arjen Garcia,Man City,FWD,2022-23,31,French,29,1997,12,9,112,69,860,65.6,6,16,1,1,1,7.28
+80,Max Becker,Tottenham,GK,2022-23,19,Spanish,15,704,1,2,1,0,1411,77.2,22,36,0,1,19,7.64
+81,Oliver Haaland,Chelsea,DEF,2022-23,28,English,25,1446,0,2,18,11,2548,83.5,61,71,6,2,3,7.24
+82,Emre Santos,West Ham,DEF,2022-23,18,French,11,584,0,6,22,13,2461,86.8,60,32,10,1,4,7.82
+83,Nico Costa,Man United,MID,2022-23,36,Spanish,31,2741,10,8,47,29,1969,77.6,43,22,2,2,1,8.31
+84,Noah Becker,West Ham,FWD,2022-23,21,Spanish,33,1624,17,6,82,29,814,66.5,9,2,8,0,1,8.2
+85,Nico Silva,Arsenal,GK,2022-23,36,Argentine,38,2058,1,1,0,0,948,69.2,53,9,9,0,7,6.48
+86,Alex Martins,Tottenham,FWD,2022-23,28,English,30,2483,11,11,66,25,312,71.9,6,10,0,1,1,8.07
+87,Leo Costa,Tottenham,GK,2022-23,25,Spanish,23,2066,1,0,0,0,1254,77.6,29,15,3,2,20,7.18
+88,Emre Alves,Man City,FWD,2022-23,28,Argentine,25,1157,24,10,63,28,1104,74.6,26,4,3,0,1,6.51
+89,Sven Muller,Aston Villa,GK,2022-23,21,French,8,379,0,2,3,1,1227,66.6,38,18,7,1,7,6.56
+90,Luis Lopez,Man City,GK,2022-23,34,German,35,2874,0,2,3,1,1163,70.0,28,23,2,0,10,7.96
+91,Luca Weber,Aston Villa,MID,2022-23,24,English,15,1170,8,3,74,27,2336,87.0,47,27,5,0,2,8.34
+92,Diego Torres,Aston Villa,FWD,2022-23,25,Italian,15,1174,10,4,59,22,698,69.0,20,16,9,0,0,9.02
+93,Noah Smith,Man United,FWD,2022-23,20,Portuguese,21,1823,14,2,42,13,1161,78.3,17,12,2,0,0,7.32
+94,James Costa,Man City,MID,2022-23,19,Portuguese,10,734,4,16,45,22,1248,83.7,65,14,6,2,0,8.84
+95,Arjen Weber,Chelsea,FWD,2022-23,32,French,35,3028,5,8,96,31,481,65.0,8,7,8,0,0,6.89
+96,Eden Torres,Liverpool,GK,2022-23,22,Belgian,14,801,1,1,5,2,662,69.1,31,32,5,2,11,7.97
+97,Kai Diaz,Liverpool,FWD,2022-23,18,Belgian,25,1723,17,6,83,36,995,61.0,13,14,0,2,1,8.36
+98,Nico Haaland,Man City,MID,2022-23,21,French,18,1401,3,18,75,30,2143,93.7,25,29,9,0,3,6.63
+99,Finn Muller,Man City,MID,2022-23,32,Spanish,37,1916,4,9,45,18,1570,94.4,51,33,3,2,0,8.02
+100,Oliver Jones,West Ham,FWD,2022-23,36,English,21,1524,11,6,72,35,342,61.5,21,3,5,1,1,8.62
+101,Eden Perez,Man United,MID,2022-23,20,Portuguese,26,1509,6,7,21,13,1297,92.2,36,11,7,1,1,7.65
+102,Sven Lopez,Man City,MID,2022-23,28,Portuguese,26,1190,11,5,70,39,1476,78.3,63,41,7,0,2,7.33
+103,Harry Gomez,West Ham,MID,2022-23,34,Spanish,6,287,5,14,33,15,1257,90.0,41,50,2,0,3,7.89
+104,Luis Martins,Aston Villa,FWD,2022-23,30,Portuguese,14,689,7,6,78,43,1008,81.2,24,19,8,0,0,7.11
+105,Bruno Lopez,Tottenham,DEF,2022-23,28,Italian,16,839,0,6,19,12,2033,73.2,87,65,2,0,7,7.74
+106,Leo Lopez,Tottenham,FWD,2022-23,19,English,36,2679,22,11,79,37,428,60.7,10,2,10,0,1,7.59
+107,Harry Kroos,Aston Villa,MID,2022-23,26,Dutch,5,318,7,16,73,41,2747,89.8,33,41,6,0,0,7.3
+108,Ivan Gomez,Newcastle,DEF,2022-23,19,Portuguese,9,631,4,1,8,5,2558,83.1,67,57,0,0,9,6.32
+109,Alex Fernandez,West Ham,MID,2022-23,26,French,23,1821,11,16,24,15,1464,91.4,49,37,8,2,0,7.85
+110,Ivan Fernandez,West Ham,MID,2022-23,26,Italian,30,1679,13,14,28,9,2181,91.6,35,33,7,1,1,7.34
+111,Max Klein,Aston Villa,MID,2022-23,25,Portuguese,27,1969,6,5,71,45,2142,78.8,48,50,5,0,2,8.03
+112,Dani Lopez,Chelsea,FWD,2022-23,34,Italian,10,835,15,11,74,30,365,66.9,5,17,0,2,1,6.51
+113,Remi Muller,Brighton,GK,2022-23,18,Argentine,18,1541,0,2,3,1,1032,65.5,34,19,0,2,19,6.76
+114,Nico Lopez,Arsenal,MID,2022-23,28,Dutch,38,2474,13,15,34,21,2474,75.0,32,42,5,1,1,6.92
+115,Harry Mane,Aston Villa,FWD,2022-23,25,Brazilian,27,1369,12,3,58,39,723,76.3,18,18,8,2,0,9.25
+116,Andre Diaz,Man City,DEF,2022-23,27,French,23,1938,2,1,23,8,972,89.3,112,47,7,1,3,7.82
+117,Nico Dias,Man City,MID,2022-23,24,French,15,725,5,10,36,21,1872,84.4,44,18,8,2,3,7.25
+118,Toni Costa,Man United,DEF,2022-23,20,English,20,1115,0,3,8,3,2460,81.9,47,21,0,1,8,8.23
+119,Harry Torres,Aston Villa,MID,2022-23,20,Italian,7,468,12,18,65,33,1860,76.3,64,30,4,0,2,8.58
+120,Cesar Alves,Man United,MID,2022-23,35,Spanish,16,1375,10,6,54,35,1679,86.4,31,43,8,2,3,7.79
+1,Yuri Costa,West Ham,MID,2023-24,21,Italian,11,560,14,8,59,36,1704,89.1,35,47,3,1,3,7.09
+2,Yuri Silva,Chelsea,DEF,2023-24,32,Belgian,27,1709,2,5,16,4,1146,84.9,105,43,5,0,1,7.27
+3,Finn Becker,Aston Villa,MID,2023-24,32,English,33,2187,14,14,25,13,2690,80.5,40,36,2,1,3,8.93
+4,Arjen Alves,Chelsea,MID,2023-24,29,Belgian,12,559,14,6,75,36,2197,92.1,63,22,0,1,0,6.62
+5,Kai Dupont,Man City,MID,2023-24,34,Dutch,28,1929,6,3,61,32,2567,76.7,57,50,10,2,0,8.04
+6,Finn Neves,Arsenal,MID,2023-24,22,Argentine,23,1460,8,15,30,17,2556,93.6,60,28,7,0,2,6.91
+7,Diego Gomez,Man United,MID,2023-24,23,French,31,1397,13,15,67,36,2187,91.4,47,35,6,0,2,6.5
+8,Max Santos,Brighton,DEF,2023-24,32,Italian,32,2231,1,1,6,2,1438,83.3,107,49,0,0,0,6.23
+9,Yuri Rossi,Arsenal,MID,2023-24,34,Dutch,17,772,4,17,60,39,1304,87.9,53,11,1,2,2,8.72
+10,Finn Weber,Brighton,MID,2023-24,36,Argentine,7,483,10,9,47,14,1866,89.8,17,29,7,1,1,7.82
+11,Toni Torres,Aston Villa,FWD,2023-24,25,Portuguese,35,2309,16,3,104,34,656,62.7,27,14,7,0,0,8.18
+12,Leo Mane,Tottenham,MID,2023-24,28,English,34,2213,6,8,62,29,2652,80.5,32,45,1,2,2,7.27
+13,Leo Fernandez,Newcastle,FWD,2023-24,25,Brazilian,37,2540,16,9,102,56,859,60.3,27,9,1,0,0,7.61
+14,Finn Perez,Liverpool,MID,2023-24,19,Brazilian,35,2821,6,10,20,6,2425,87.9,15,29,10,0,2,8.09
+15,Felix Martins,Arsenal,DEF,2023-24,37,Belgian,9,497,4,1,20,10,1632,72.1,95,31,7,2,5,6.42
+16,Mateo Lopez,Man United,FWD,2023-24,34,German,19,1272,17,4,65,41,533,68.7,18,12,9,0,1,7.44
+17,Nico Klein,Chelsea,DEF,2023-24,37,Argentine,33,1913,4,1,9,4,2531,89.9,74,42,3,0,5,7.36
+18,Harry Fernandez,Man United,DEF,2023-24,22,Portuguese,27,1750,5,3,9,3,2732,80.8,76,60,9,1,0,7.9
+19,Toni Dias,Aston Villa,GK,2023-24,36,Dutch,32,2279,0,1,0,0,638,73.4,30,25,2,0,16,6.87
+20,Noah Kroos,Brighton,MID,2023-24,20,English,23,1243,12,6,70,34,1303,81.5,31,44,4,0,3,8.48
+21,Harry Costa,Chelsea,MID,2023-24,19,Argentine,15,1045,5,8,38,21,2782,92.4,41,43,4,0,2,6.83
+22,Nico Moura,Liverpool,DEF,2023-24,33,Portuguese,36,2416,0,5,30,14,1682,79.3,51,25,6,1,0,8.45
+23,Harry Perez,Liverpool,FWD,2023-24,23,French,21,1762,15,1,101,48,1014,80.2,28,16,10,1,0,7.59
+24,Eden Kroos,Arsenal,DEF,2023-24,29,Italian,37,3151,3,6,17,11,2663,87.1,74,67,2,2,8,7.1
+25,James Ramos,Aston Villa,DEF,2023-24,28,Brazilian,26,1974,2,4,17,9,1086,84.7,86,65,10,2,12,7.91
+26,Finn Lopez,Tottenham,DEF,2023-24,20,Dutch,34,1543,1,5,25,14,2504,75.6,119,31,2,1,1,6.53
+27,Dani Dupont,Aston Villa,GK,2023-24,21,Brazilian,17,1341,0,2,5,3,791,77.5,16,7,4,0,5,7.85
+28,Diego Kroos,Brighton,MID,2023-24,30,Dutch,34,1567,5,5,21,10,2001,76.6,54,32,10,2,0,7.52
+29,Bruno Smith,Man United,MID,2023-24,23,Belgian,20,1513,15,14,32,20,1244,94.1,59,41,0,2,1,7.81
+30,Oliver Fernandez,Liverpool,MID,2023-24,23,German,38,2190,13,18,57,38,2236,88.3,16,11,7,2,1,7.03
+31,Sven Diaz,Man United,DEF,2023-24,24,Dutch,25,1366,5,6,26,15,1712,82.8,92,58,2,0,0,8.45
+32,Noah Silva,Man United,DEF,2023-24,27,Brazilian,36,2472,0,6,27,16,2307,82.5,71,29,1,1,9,6.18
+33,Luca Kroos,Man United,GK,2023-24,20,Belgian,35,2022,1,2,5,2,558,76.6,39,8,1,1,17,6.68
+34,Bruno Gomez,Liverpool,FWD,2023-24,30,Dutch,21,1004,13,12,88,38,1160,61.0,19,18,1,0,1,7.33
+35,Bruno Klein,West Ham,GK,2023-24,21,French,38,2245,1,0,4,2,1076,66.9,37,15,3,1,13,7.41
+36,Diego Perez,Man City,MID,2023-24,30,German,33,2060,14,5,68,39,2644,77.3,20,21,10,0,2,6.61
+37,Nico Alves,Brighton,FWD,2023-24,35,Dutch,29,1693,14,7,60,33,835,76.7,15,14,4,2,0,9.35
+38,Nico Fernandez,West Ham,MID,2023-24,28,Belgian,22,1618,6,12,36,11,2223,83.7,51,48,2,0,3,7.64
+39,Sven Haaland,Brighton,FWD,2023-24,32,Argentine,26,1422,13,2,52,16,948,74.5,8,3,6,0,1,7.92
+40,Arjen Martins,Chelsea,DEF,2023-24,35,Spanish,5,425,0,6,8,4,1125,82.9,57,22,10,2,11,6.99
+41,Luis Dupont,Aston Villa,FWD,2023-24,36,Portuguese,28,2316,21,6,93,43,352,75.1,14,13,0,1,0,7.23
+42,Felix Diaz,Aston Villa,MID,2023-24,37,Spanish,29,2562,10,5,66,39,2405,80.3,52,26,9,1,3,8.31
+43,Luca Dupont,Newcastle,MID,2023-24,35,Spanish,34,2092,8,14,35,16,1897,92.1,61,26,4,1,3,7.94
+44,Bruno Weber,Aston Villa,GK,2023-24,32,English,17,1510,1,0,0,0,1324,70.6,42,11,2,0,8,6.0
+45,Max Weber,Liverpool,DEF,2023-24,27,French,33,1851,0,6,29,15,1882,76.1,111,64,6,1,5,6.16
+46,Felix Ramos,Tottenham,DEF,2023-24,26,Argentine,26,1597,0,6,9,3,1233,82.9,95,51,10,1,3,7.4
+47,Luis Torres,Arsenal,MID,2023-24,20,Italian,12,883,11,11,45,28,2524,80.5,39,19,10,2,2,8.95
+48,Diego Klein,Newcastle,FWD,2023-24,31,Dutch,9,606,19,4,93,29,788,75.2,29,16,8,2,0,8.57
+49,Harry Alves,Arsenal,MID,2023-24,25,Portuguese,9,656,2,4,57,27,1935,85.0,41,43,5,1,2,8.2
+50,Cesar Dias,Brighton,GK,2023-24,27,German,37,1893,1,1,4,2,1489,78.0,40,34,10,0,7,7.2
+51,Ivan Santos,Arsenal,FWD,2023-24,29,Argentine,30,2055,16,6,80,37,551,81.9,20,5,10,0,0,8.64
+52,Cesar Costa,Arsenal,DEF,2023-24,32,Brazilian,38,2904,2,6,27,18,1419,85.9,65,25,10,0,3,8.27
+53,Oliver Alves,Newcastle,DEF,2023-24,22,Italian,5,328,1,6,12,8,1277,84.4,52,61,0,2,7,6.62
+54,Nico Martins,Chelsea,DEF,2023-24,31,English,32,1769,1,5,26,10,873,85.7,83,28,10,0,4,6.94
+55,Kai Smith,Man United,MID,2023-24,20,English,7,596,13,10,21,7,1989,83.6,69,17,9,0,3,6.57
+56,Sven Moura,Aston Villa,DEF,2023-24,23,Argentine,24,1894,2,1,23,15,1404,79.6,40,51,2,2,8,7.59
+57,Andre Becker,Aston Villa,MID,2023-24,29,Belgian,22,1640,12,12,33,12,1315,82.7,31,27,1,0,0,7.93
+58,Andre Fernandez,Liverpool,FWD,2023-24,24,Spanish,38,2872,17,4,49,23,1200,60.8,15,10,8,0,0,7.03
+59,Toni Weber,Newcastle,GK,2023-24,36,Brazilian,11,937,1,2,2,1,781,77.6,30,39,6,1,16,6.36
+60,Sven Jones,Liverpool,MID,2023-24,28,English,23,1649,6,16,23,7,1953,79.1,37,29,8,2,2,7.98
+61,Arjen Becker,Tottenham,DEF,2023-24,22,Portuguese,38,3033,2,4,5,3,2106,86.7,106,66,7,1,7,6.83
+62,Oliver Silva,Tottenham,DEF,2023-24,27,English,10,474,1,0,21,8,1078,88.6,92,75,9,2,3,6.98
+63,Luis Kroos,Liverpool,MID,2023-24,24,German,9,712,6,15,39,25,2043,79.5,17,31,9,1,2,8.16
+64,Oliver Rossi,Newcastle,DEF,2023-24,20,Dutch,20,1578,4,0,20,10,2205,76.7,66,70,4,1,8,8.5
+65,Oliver Muller,Liverpool,MID,2023-24,35,English,13,742,2,18,78,31,2425,75.4,69,40,9,1,1,7.17
+66,Arjen Fernandez,Aston Villa,MID,2023-24,23,German,29,1529,5,18,71,34,2116,86.2,61,34,0,0,2,8.45
+67,Remi Haaland,West Ham,MID,2023-24,24,Argentine,21,974,3,10,34,12,2421,93.4,46,48,8,0,2,8.24
+68,Marc Becker,Man City,MID,2023-24,30,Argentine,5,295,7,8,39,19,2798,90.3,66,12,9,2,0,8.18
+69,Max Silva,Arsenal,MID,2023-24,28,Italian,8,561,5,4,68,35,1277,89.1,33,44,2,1,3,8.93
+70,Marc Mane,Man City,MID,2023-24,24,English,23,1445,2,10,38,24,1482,84.6,67,10,10,2,0,6.8
+71,Emre Fernandez,Newcastle,MID,2023-24,26,Portuguese,12,675,5,17,23,12,2599,91.3,58,32,7,2,1,7.75
+72,Ivan Costa,Man City,DEF,2023-24,20,English,9,547,2,2,22,9,912,70.4,119,27,0,1,11,6.98
+73,Max Martins,Tottenham,DEF,2023-24,30,Portuguese,23,1736,0,3,18,6,1882,77.1,108,73,10,1,7,6.21
+74,Sven Ramos,Brighton,FWD,2023-24,31,French,33,1635,11,4,72,48,514,64.4,17,8,7,1,0,7.76
+75,Diego Silva,Arsenal,MID,2023-24,25,Italian,32,2021,10,11,27,15,1216,77.1,40,38,4,1,1,7.87
+76,Leo Santos,Man United,DEF,2023-24,28,French,20,1467,0,0,21,12,1186,74.1,115,26,7,1,10,7.21
+77,Sven Kroos,Newcastle,MID,2023-24,31,English,24,1726,11,13,74,41,2718,94.0,53,36,3,2,0,7.24
+78,Luis Alves,Arsenal,DEF,2023-24,35,Italian,36,2608,5,4,6,2,2542,81.3,61,22,8,2,5,7.13
+79,Arjen Garcia,Man City,FWD,2023-24,32,French,25,1352,6,4,104,46,378,64.7,23,11,5,1,0,9.32
+80,Max Becker,Tottenham,GK,2023-24,20,Spanish,14,881,0,0,0,0,1316,73.1,54,8,9,1,11,8.35
+81,Oliver Haaland,Chelsea,DEF,2023-24,29,English,29,1871,0,1,22,11,2242,87.8,66,73,3,0,1,6.21
+82,Emre Santos,West Ham,DEF,2023-24,19,French,27,1275,2,1,23,7,1864,74.8,56,62,3,2,8,7.79
+83,Nico Costa,Man United,MID,2023-24,37,Spanish,37,2785,2,11,65,44,1402,84.2,19,43,1,1,3,8.33
+84,Noah Becker,West Ham,FWD,2023-24,22,Spanish,14,953,14,2,77,39,618,72.0,23,5,6,2,0,7.1
+85,Nico Silva,Arsenal,GK,2023-24,37,Argentine,32,2757,0,1,1,0,889,77.0,26,13,4,0,17,6.83
+86,Alex Martins,Tottenham,FWD,2023-24,29,English,19,909,25,2,100,41,487,78.3,30,12,1,2,0,8.0
+87,Leo Costa,Tottenham,GK,2023-24,26,Spanish,28,2428,0,1,0,0,755,71.1,22,8,0,2,10,7.17
+88,Emre Alves,Man City,FWD,2023-24,29,Argentine,11,851,10,2,40,13,944,77.3,10,7,3,2,0,9.33
+89,Sven Muller,Aston Villa,GK,2023-24,22,French,28,2254,0,0,3,1,1245,73.0,21,31,6,1,12,6.89
+90,Luis Lopez,Man City,GK,2023-24,35,German,26,1780,1,0,3,1,1380,66.5,55,20,4,1,5,6.98
+91,Luca Weber,Aston Villa,MID,2023-24,25,English,27,1432,13,9,35,17,2094,87.2,17,39,3,2,0,6.9
+92,Diego Torres,Aston Villa,FWD,2023-24,26,Italian,34,1559,17,1,105,68,317,66.5,9,7,10,1,1,8.12
+93,Noah Smith,Man United,FWD,2023-24,21,Portuguese,23,1382,30,10,75,39,839,66.8,6,10,7,2,1,7.0
+94,James Costa,Man City,MID,2023-24,20,Portuguese,38,2414,2,16,52,28,1374,90.1,33,12,5,0,1,7.01
+95,Arjen Weber,Chelsea,FWD,2023-24,33,French,11,877,20,1,103,62,568,68.6,11,18,6,0,0,9.19
+96,Eden Torres,Liverpool,GK,2023-24,23,Belgian,20,908,1,0,2,0,1040,74.4,34,7,8,0,19,7.72
+97,Kai Diaz,Liverpool,FWD,2023-24,19,Belgian,19,1253,26,9,90,40,1017,71.2,26,10,4,1,0,8.96
+98,Nico Haaland,Man City,MID,2023-24,22,French,19,911,9,4,70,23,1733,84.6,62,11,8,0,3,6.95
+99,Finn Muller,Man City,MID,2023-24,33,Spanish,23,1107,3,15,64,37,1420,86.2,68,24,7,2,3,7.3
+100,Oliver Jones,West Ham,FWD,2023-24,37,English,6,448,8,11,99,29,778,75.6,24,12,0,0,1,6.53
+101,Eden Perez,Man United,MID,2023-24,21,Portuguese,36,2459,13,4,80,45,2632,86.6,70,24,0,2,3,7.57
+102,Sven Lopez,Man City,MID,2023-24,29,Portuguese,21,1189,13,15,78,43,2094,92.8,21,37,2,0,0,8.37
+103,Harry Gomez,West Ham,MID,2023-24,35,Spanish,15,857,5,12,56,20,2137,81.1,67,31,7,2,1,7.54
+104,Luis Martins,Aston Villa,FWD,2023-24,31,Portuguese,6,306,17,11,41,19,694,64.1,16,11,2,1,1,6.73
+105,Bruno Lopez,Tottenham,DEF,2023-24,29,Italian,36,1929,5,0,10,3,2045,74.5,106,57,9,1,2,7.32
+106,Leo Lopez,Tottenham,FWD,2023-24,20,English,10,804,8,7,61,36,506,77.1,14,8,9,0,0,8.78
+107,Harry Kroos,Aston Villa,MID,2023-24,27,Dutch,19,1331,2,14,27,15,1733,75.7,15,46,7,1,2,8.7
+108,Ivan Gomez,Newcastle,DEF,2023-24,20,Portuguese,22,1826,5,0,28,14,2590,88.0,98,75,10,0,7,8.49
+109,Alex Fernandez,West Ham,MID,2023-24,27,French,14,633,7,18,46,24,2156,90.0,34,21,10,2,2,8.52
+110,Ivan Fernandez,West Ham,MID,2023-24,27,Italian,26,1186,14,15,68,39,2116,90.7,49,20,7,1,2,7.92
+111,Max Klein,Aston Villa,MID,2023-24,26,Portuguese,23,1636,5,18,74,42,2431,83.3,29,44,2,2,2,7.51
+112,Dani Lopez,Chelsea,FWD,2023-24,35,Italian,9,661,15,9,59,28,950,80.4,20,20,4,2,0,7.53
+113,Remi Muller,Brighton,GK,2023-24,19,Argentine,22,1348,1,1,0,0,1420,72.6,51,24,5,1,10,8.37
+114,Nico Lopez,Arsenal,MID,2023-24,29,Dutch,14,979,12,7,63,34,1770,88.9,19,32,0,2,0,8.12
+115,Harry Mane,Aston Villa,FWD,2023-24,26,Brazilian,24,1820,19,8,115,42,1020,78.4,26,19,0,2,0,7.01
+116,Andre Diaz,Man City,DEF,2023-24,28,French,6,424,3,5,24,16,2007,89.1,77,22,5,1,11,8.2
+117,Nico Dias,Man City,MID,2023-24,25,French,30,1464,11,13,27,17,2373,89.1,58,49,3,2,2,6.67
+118,Toni Costa,Man United,DEF,2023-24,21,English,27,1563,5,2,11,4,2062,83.7,119,64,8,2,10,6.94
+119,Harry Torres,Aston Villa,MID,2023-24,21,Italian,34,1725,6,12,36,24,2024,84.3,61,40,6,0,2,8.62
+120,Cesar Alves,Man United,MID,2023-24,36,Spanish,38,2522,2,3,61,41,1693,82.7,44,38,1,1,2,6.68
